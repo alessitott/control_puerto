@@ -431,9 +431,8 @@
 							],
 							"variable": [
 								{
-									"id": "966a4129-e68b-4ab6-a32c-2cda9b90d613",
 									"key": "id",
-									"value": "UUID_DEL_TRIPULANTE"
+									"value": "60d670cb-fce5-4ceb-94b9-bb5cadbe0c50"
 								}
 							]
 						}
@@ -460,7 +459,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"barco\": \"UUID_DEL_BARCO\",\n  \"nombre\": \"Juan Perez Updated\",\n  \"rol\": \"Primer Oficial\",\n  \"nacionalidad\": \"Panama\",\n  \"identificacion\": \"PAN-123456\"\n}"
+							"raw": "{\n  \"barco\": \"fe4b16c1-a195-4901-8e94-d31b8cb70427\",\n  \"nombre\": \"Juan Perez Updated\",\n  \"rol\": \"Primer Oficial\",\n  \"nacionalidad\": \"Panama\",\n  \"identificacion\": \"PAN-123456\"\n}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/tripulacion/:id/",
@@ -475,9 +474,8 @@
 							],
 							"variable": [
 								{
-									"id": "b1dfd0f2-646b-4666-b805-367bfd3b3794",
 									"key": "id",
-									"value": "UUID_DEL_TRIPULANTE"
+									"value": "60d670cb-fce5-4ceb-94b9-bb5cadbe0c50"
 								}
 							]
 						}
