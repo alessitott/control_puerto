@@ -616,7 +616,7 @@
 							"variable": [
 								{
 									"key": "id",
-									"value": "fe4b16c1-a195-4901-8e94-d31b8cb70427"
+									"value": "3617da9e-5d4b-480e-92a1-f49eb3fc345c"
 								}
 							]
 						}
@@ -643,7 +643,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"barco\": \"UUID_DEL_BARCO\",\n  \"codigo_contenedor\": \"CONT-001\",\n  \"tipo\": \"refrigerado\",\n  \"peso\": 25000.5,\n  \"estado\": \"despachado\"\n}"
+							"raw": "{\n  \"barco\": \"fe4b16c1-a195-4901-8e94-d31b8cb70427\",\n  \"codigo_contenedor\": \"CONT-001\",\n  \"tipo\": \"refrigerado\",\n  \"peso\": 25000.5,\n  \"estado\": \"despachado\"\n}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/contenedores/:id/",
@@ -658,9 +658,8 @@
 							],
 							"variable": [
 								{
-									"id": "7df3fa9e-754f-4e2d-a107-164af3091d23",
 									"key": "id",
-									"value": "UUID_DEL_CONTENEDOR"
+									"value": "3617da9e-5d4b-480e-92a1-f49eb3fc345c"
 								}
 							]
 						}
@@ -800,9 +799,8 @@
 							],
 							"variable": [
 								{
-									"id": "78bbd522-3565-4c23-a229-326e1544b213",
 									"key": "id",
-									"value": "UUID_DE_LA_ZONA"
+									"value": "40e20dc4-1e8a-44fe-a6cc-7378e6c8e929"
 								}
 							]
 						}
