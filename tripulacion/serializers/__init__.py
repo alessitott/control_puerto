@@ -1,0 +1,1 @@
+from .tripulante_serializer import TripulanteSerializer

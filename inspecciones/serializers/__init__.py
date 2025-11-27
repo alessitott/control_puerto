@@ -1,0 +1,1 @@
+from .inspeccion_serializer import InspeccionSerializer

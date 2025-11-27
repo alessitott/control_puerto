@@ -1,0 +1,1 @@
+from .inspeccion import Inspeccion
