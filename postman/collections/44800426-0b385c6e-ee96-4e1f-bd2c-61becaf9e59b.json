@@ -1153,7 +1153,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"contenedor\": \"3617da9e-5d4b-480e-92a1-f49eb3fc345c\",\n  \"tipo_movimiento\": \"ingreso\",\n  \"zona_origen\": \"UUID_ZONA_ORIGEN\",\n  \"zona_destino\": \"UUID_ZONA_DESTINO\",\n  \"fecha_hora\": \"2024-01-15T10:30:00Z\",\n  \"operador\": \"UUID_DEL_OPERADOR\"\n}"
+							"raw": "{\n  \"contenedor\": \"3617da9e-5d4b-480e-92a1-f49eb3fc345c\",\n  \"tipo_movimiento\": \"ingreso\",\n  \"zona_origen\": \"40e20dc4-1e8a-44fe-a6cc-7378e6c8e929\",\n  \"zona_destino\": \"40e20dc4-1e8a-44fe-a6cc-7378e6c8e929\",\n  \"fecha_hora\": \"2024-01-15T10:30:00Z\",\n  \"operador\": \"59267901-b7a3-4811-9d87-ade205d844e6\"\n}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/movimientos/",
@@ -1196,9 +1196,8 @@
 							],
 							"variable": [
 								{
-									"id": "a393dd8b-4d75-4610-a54e-f0c143df82aa",
 									"key": "id",
-									"value": "UUID_DEL_MOVIMIENTO"
+									"value": "eab6c2ee-065d-4709-8f12-6f35e788dcc5"
 								}
 							]
 						}
@@ -1240,9 +1239,8 @@
 							],
 							"variable": [
 								{
-									"id": "9643a4d7-59a4-439a-925b-6f419a74505c",
 									"key": "id",
-									"value": "UUID_DEL_MOVIMIENTO"
+									"value": "eab6c2ee-065d-4709-8f12-6f35e788dcc5"
 								}
 							]
 						}
