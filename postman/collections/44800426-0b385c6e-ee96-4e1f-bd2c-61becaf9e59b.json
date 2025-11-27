@@ -388,7 +388,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"barco\": \"UUID_DEL_BARCO\",\n  \"nombre\": \"Juan Perez\",\n  \"rol\": \"Capitan\",\n  \"nacionalidad\": \"Panama\",\n  \"identificacion\": \"PAN-123456\"\n}"
+							"raw": "{\n  \"barco\": \"fe4b16c1-a195-4901-8e94-d31b8cb70427\",\n  \"nombre\": \"Juan Perez\",\n  \"rol\": \"Capitan\",\n  \"nacionalidad\": \"Panama\",\n  \"identificacion\": \"PAN-123456\"\n}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/tripulacion/",
