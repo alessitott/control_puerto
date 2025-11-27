@@ -572,7 +572,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"barco\": \"UUID_DEL_BARCO\",\n  \"codigo_contenedor\": \"CONT-001\",\n  \"tipo\": \"refrigerado\",\n  \"peso\": 25000.5,\n  \"estado\": \"en_puerto\"\n}"
+							"raw": "{\n  \"barco\": \"fe4b16c1-a195-4901-8e94-d31b8cb70427\",\n  \"codigo_contenedor\": \"CONT-001\",\n  \"tipo\": \"refrigerado\",\n  \"peso\": 25000.5,\n  \"estado\": \"en_puerto\"\n}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/contenedores/",
