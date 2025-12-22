@@ -25,7 +25,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}"
+							"raw": "{\n  \"username\": \"admin\",\n  \"password\": \"Alessito123\"\n}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/auth/login/",
