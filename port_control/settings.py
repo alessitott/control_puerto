@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'movimientos',
     'inspecciones',
     'autorizaciones',
+    'ubicaciones',
 ]
 
 # MIDDLEWARE (¡OBLIGATORIO!)
